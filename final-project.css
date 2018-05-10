@@ -1,0 +1,88 @@
+body{
+  padding: 50px;
+  font-family: Georgia;
+  overflow: auto;
+}
+.headline{
+  padding-bottom: 5px;
+  border-bottom: 1px solid #000000;
+  margin-bottom: 20px;
+}
+.story{
+  padding: 20px;
+  font-size: 12px;
+  background-color: #e6e2d3;
+  border-radius: 25px;
+  padding-left: 50px;
+}
+.byline{
+  text-transform: uppercase;
+  font-family: Helvetica;
+  font-size: 14px;
+}
+img{
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 5px;
+}
+.container{
+  width: 100%;
+  padding: 20px;
+}
+h1{
+  display: block;
+  width: 100%;
+  font-family: Helvetica;
+}
+.caption{
+  font-style: italic;
+}
+.icon{
+  display: inline;
+  color: #c4b7a6;
+}
+h2{
+  font-family: Helvetica;
+  font-size: 16px;
+  padding-bottom: 7px;
+}
+.interactive h2{
+  display: block;
+  font-size: 18px;
+  padding-bottom: 0px;
+}
+#drop-down{
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-bottom: 5px;
+}
+a{
+  color: #cc6600;
+}
+.interactive{
+  background-color: #dac292;
+  border-radius: 25px;
+  margin-right: 20px;
+  border: 10px double #FFFFFF;
+  margin-bottom: 20px;
+}
+#check{
+  width: 100%;
+  margin-top: 3px;
+  margin-bottom: 0px;
+}
+.story img{
+  display: block;
+  padding: 20px;
+  padding-bottom: 5px;
+}
+.story .caption{
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+.footnote{
+  margin-top: 0px;
+  font-size: 10px;
+  font-style: italic;
+}
